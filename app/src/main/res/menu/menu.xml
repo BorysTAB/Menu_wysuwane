@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Caprese"
+        android:title="Caprese"
+        android:checked="true"/>
+    <item
+        android:id="@+id/Jajko"
+        android:title="Jajko"
+/>
+    <item
+        android:id="@+id/Krewetki"
+        android:title="Krewetki"
+/>
+    <item
+        android:id="@+id/Owocowa"
+        android:title="Owocowa"/>
+</menu>

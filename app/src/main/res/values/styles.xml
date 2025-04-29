@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Menu"
+        parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/menu1</item>
+        <item name="colorPrimaryDark">@color/menu2</item>
+        <item name="colorAccent">@color/menu3</item>
+    </style>
+
+        <style name="Menu.menu1">
+            <item name="android:textSize">12pt</item>
+        </style>
+
+</resources>
